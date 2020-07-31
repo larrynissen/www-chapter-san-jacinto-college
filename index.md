@@ -4,6 +4,9 @@ layout: col-sidebar
 title: OWASP San Jacinto College
 tags: example-tag
 region: 
+meetup-group: OWASP-San-Jacinto-College-Student-Chapter
+country: USA
+postal-code: 77001
 
 ---
 
