@@ -9,11 +9,11 @@ tags:
 <h1>2020</h1>
 <h2>OWASP San Jacinto College August Meeting</h2>
 
-When: CANCELLED
+<b>When:</b> CANCELLED
 
-Where: San Jacinto College South Campus
+<b>Where:</b> San Jacinto College South Campus
 
-Description: This months meeting has been cancelled. We will continue to monitor the situation concerning the SARS-CoV-2 virus and will schedule our next meeting when the school and group feel it is safe to do so. 
+<b>Description:</b> This months meeting has been cancelled. We will continue to monitor the situation concerning the SARS-CoV-2 virus and will schedule our next meeting when the school and group feel it is safe to do so. 
 
 <h2>OWASP San Jacinto College May Meeting</h2>
 
@@ -37,7 +37,7 @@ Description: This months meeting has been cancelled. We will continue to monitor
 
 <b>Where:</b> San Jacinto College South Campus
 
-Description:</b> This months meeting has been cancelled. We will continue to monitor the situation concerning the SARS-CoV-2 virus and will schedule our next meeting when the school and group feel it is safe to do so. 
+<b>Description:</b> This months meeting has been cancelled. We will continue to monitor the situation concerning the SARS-CoV-2 virus and will schedule our next meeting when the school and group feel it is safe to do so. 
 
 <h2>OWASP San Jacinto College February Meeting</h2>
 
