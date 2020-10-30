@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP San Jacinto College
+title: OWASP San Jacinto College - Student Chapter
 tags: 
 region: North America
 meetup-group: OWASP-San-Jacinto-College-Student-Chapter
