@@ -19,13 +19,13 @@ Welcome to the San Jacinto College chapter homepage! We hold our regular meeting
 Due to SARS-COV-2, we have been unable to hold in-person meetings for the majority of 2020. Our leadership is currently in talks of holding meetings via Discord. Keep an eye on our social media pages for updates and links to join our discord.
 
 <h2>Upcoming Meetings</h2>
-<h3>OWASP San Jacinto College September Meeting</h3>
+<h3>OWASP San Jacinto College December Meeting</h3>
 
 <b>When:</b> TBD
 
 <b>Where:</b> Discord
 
-<b>Description:</b> If the Sept. meeting happens, we will be discussing the leadership and future of the group. Other topics TBD.
+<b>Description:</b> If the Dec. meeting happens, we will be discussing the leadership and future of the group. Other topics TBD.
 
 <h1>Participation</h1>
 
