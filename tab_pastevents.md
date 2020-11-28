@@ -8,6 +8,30 @@ tags:
 ---
 
 <h1>2020</h1>
+<h2>OWASP San Jacinto College November Meeting</h2>
+
+<b>When:</b> CANCELLED
+
+<b>Where:</b> San Jacinto College South Campus
+
+<b>Description:</b> This months meeting has been cancelled. We will continue to monitor the situation concerning the SARS-CoV-2 virus and will schedule our next meeting when the school and group feel it is safe to do so. 
+
+<h2>OWASP San Jacinto College October Meeting</h2>
+
+<b>When:</b> CANCELLED
+
+<b>Where:</b> San Jacinto College South Campus
+
+<b>Description:</b> This months meeting has been cancelled. We will continue to monitor the situation concerning the SARS-CoV-2 virus and will schedule our next meeting when the school and group feel it is safe to do so. 
+
+<h2>OWASP San Jacinto College September Meeting</h2>
+
+<b>When:</b> CANCELLED
+
+<b>Where:</b> San Jacinto College South Campus
+
+<b>Description:</b> This months meeting has been cancelled. We will continue to monitor the situation concerning the SARS-CoV-2 virus and will schedule our next meeting when the school and group feel it is safe to do so. 
+
 <h2>OWASP San Jacinto College August Meeting</h2>
 
 <b>When:</b> CANCELLED
@@ -15,6 +39,22 @@ tags:
 <b>Where:</b> San Jacinto College South Campus
 
 <b>Description:</b> This months meeting has been cancelled. We will continue to monitor the situation concerning the SARS-CoV-2 virus and will schedule our next meeting when the school and group feel it is safe to do so. 
+
+<h2>OWASP San Jacinto College July Meeting</h2>
+
+<b>When:</b> N/A
+
+<b>Where:</b> San Jacinto College South Campus
+
+<b>Description:</b> We will not be having meetings over the summer months due to low interest. Enjoy the summer break!
+
+<h2>OWASP San Jacinto College June Meeting</h2>
+
+<b>When:</b> N/A
+
+<b>Where:</b> San Jacinto College South Campus
+
+<b>Description:</b> We will not be having meetings over the summer months due to low interest. Enjoy the summer break!
 
 <h2>OWASP San Jacinto College May Meeting</h2>
 
