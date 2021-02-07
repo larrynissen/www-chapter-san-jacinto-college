@@ -7,7 +7,24 @@ order: 1
 tags:
 ---
 
+<h1>2021</h1>
+<h2>OWASP San Jacinto College January Meeting</h2>
+
+<b>When:</b> CANCELLED
+
+<b>Where:</b> San Jacinto College South Campus
+
+<b>Description:</b> This months meeting has been cancelled. We will continue to monitor the situation concerning the SARS-CoV-2 virus and will schedule our next meeting when the school and group feel it is safe to do so. 
+
 <h1>2020</h1>
+<h2>OWASP San Jacinto College December Meeting</h2>
+
+<b>When:</b> CANCELLED
+
+<b>Where:</b> San Jacinto College South Campus
+
+<b>Description:</b> This months meeting has been cancelled. We will continue to monitor the situation concerning the SARS-CoV-2 virus and will schedule our next meeting when the school and group feel it is safe to do so. 
+
 <h2>OWASP San Jacinto College November Meeting</h2>
 
 <b>When:</b> CANCELLED
