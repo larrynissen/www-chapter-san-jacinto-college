@@ -1,9 +1,9 @@
 ---
 title: Pastevents
 displaytext: Past Events
-layout:  null
+layout: null
 tab: true
-order: 1
+order: 2
 tags:
 ---
 
