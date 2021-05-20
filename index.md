@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP San Jacinto College - Student Chapter
-tags: san jacinto college
+tags: san-jacinto
 site_side: true
 currency: usd
 altfooter: true
