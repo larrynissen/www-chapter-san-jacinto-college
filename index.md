@@ -2,34 +2,47 @@
 
 layout: col-sidebar
 title: OWASP San Jacinto College - Student Chapter
-tags: 
+tags: san jacinto college
+site_side: true
+currency: usd
+altfooter: true
 region: North America
 meetup-group: OWASP-San-Jacinto-College-Student-Chapter
 country: USA
 postal-code: 77001
 
 ---
-<h1>OWASP San Jacinto College</h1>
+## OWASP San Jacinto College
 
-<h2>Welcome</h2>
-Welcome to the San Jacinto College chapter homepage! We hold our regular meetings on the second Friday of each month. Meetings are held at San Jacinto College South Campus. SJC South Campus is located at 13735 Beamer Rd, Houston, TX 77089. 
+## Welcome
 
-<h2>Announcements</h2>
-<h3>Online Meetings</h3>
+Welcome to the San Jacinto College chapter homepage! We hold our regular meetings on the second Friday of each month. Meetings are held at San Jacinto College South Campus. SJC South Campus is located at 13735 Beamer Rd, Houston, TX 77089.
+
+## Announcements
+
+### Online Meetings
+
 Due to SARS-COV-2, we have been unable to hold in-person meetings. Our leadership is currently in talks of holding meetings via Discord. Keep an eye on our social media pages for updates and links to join our discord.
 
-<h2>Upcoming Meetings</h2>
-<h3>OWASP San Jacinto College April Meeting</h3>
+## Upcoming Meetings
 
-<b>When:</b> TBD
+We schedule our meetings on the [OWASP San Jacinto College Meetup Group](https://www.meetup.com/OWASP-San-Jacinto-College-Student-Chapter/). Please RSVP to events there!
 
-<b>Where:</b> Discord
+{% include chapter_events.html group=page.meetup-group %}
 
-<b>Description:</b> If the meeting happens, we will be discussing the leadership and future of the group. Other topics TBD.
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
-<h1>Participation</h1>
+## Past Events
 
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+### OWASP San Jacinto College April Meeting
+
+- **When:** TBD
+- **Where:** Discord
+- **Description:** If the meeting happens, we will be discussing the leadership and future of the group. Other topics TBD.
+
+## Participation
+
+The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
 
 Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
 
