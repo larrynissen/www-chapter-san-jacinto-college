@@ -34,11 +34,9 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ## Past Events
 
-### OWASP San Jacinto College April Meeting
+### OWASP San Jacinto College Upcoming Meeting
 
-- **When:** TBD
-- **Where:** Discord
-- **Description:** If the meeting happens, we will be discussing the leadership and future of the group. Other topics TBD.
+{% include chapter_events.html group=page.meetup-group %}
 
 ## Participation
 
