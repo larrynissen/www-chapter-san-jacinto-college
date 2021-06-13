@@ -13,9 +13,10 @@ tags: san-jacinto
 
 ### OWASP San Jacinto College April Meeting
 
-- **When:** TBD
-- **Where:** Discord
-- **Description:** If the meeting happens, we will be discussing the leadership and future of the group. Other topics TBD.
+- **When:** June10th 2021 8 P.M. - 9 P.M.
+- **Where:** Zoom
+- **Description:** Introduced Leader. Showed new members what OWASP chapter was about. 
+- **Join Us on Discord**  https://discord.gg/UY5aVwuJXr
 
 ## 2020
 

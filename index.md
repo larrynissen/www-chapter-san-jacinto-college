@@ -16,13 +16,14 @@ postal-code: 77001
 
 ## Welcome
 
-Welcome to the San Jacinto College chapter homepage! We hold our regular meetings on the second Friday of each month. Meetings are held at San Jacinto College South Campus. SJC South Campus is located at 13735 Beamer Rd, Houston, TX 77089.
+Welcome to the San Jacinto College chapter homepage! We hold our regular meetings on the second Thursday of each month. Meetings are held at Online
 
 ## Announcements
 
 ### Online Meetings
+You can see us on Discord 
 
-Due to SARS-COV-2, we have been unable to hold in-person meetings. Our leadership is currently in talks of holding meetings via Discord. Keep an eye on our social media pages for updates and links to join our discord.
+https://discord.gg/UY5aVwuJXr
 
 ## Upcoming Meetings
 
@@ -31,6 +32,8 @@ We schedule our meetings on the [OWASP San Jacinto College Meetup Group](https:/
 {% include chapter_events.html group=page.meetup-group %}
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
+
+We Meet the second thursday of month at 8pm
 
 ## Past Events
 
